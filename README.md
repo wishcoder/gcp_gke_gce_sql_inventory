@@ -138,7 +138,7 @@ Repo for discovering endpoints for **[GKE](#gke)**, **[GCE](#gce)** and connecti
 > }
 > ```
 
-## [MySQL, PostgreSQL, and SQL Server](#anchors-sql)
+## [SQL](#anchors-sql)
 
 ### POM
 
