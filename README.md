@@ -196,7 +196,7 @@ Repo for discovering endpoints for **[GKE](#gke)**, **[GCE](#gce)**, connection 
 > Remember, for production environments, it's recommended to use Cloud SQL's private IP for connectivity within the same Google Cloud project or VPC network, and ensure your connection strings and credentials are securely managed, not hardcoded in your > application.
 
 
-## [Uptime Check](#anchors-uptime)
+## [Uptime](#anchors-uptime)
 
 ### POM
 
