@@ -148,7 +148,6 @@ Repo for discovering endpoints for **[GKE](#gke)**, **[GCE](#gce)** and connecti
 >     <artifactId>google-cloud-sqladmin</artifactId>
 >     <version>1.2.2</version> <!-- Check for the latest version -->
 > </dependency>
-
 > ```
 
 ### CloudSqlClientExample
